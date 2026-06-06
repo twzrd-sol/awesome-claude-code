@@ -141,7 +141,7 @@ English | [简体中文](README-CN.md)
 |[mcp-claude-code](https://github.com/SDGLBL/mcp-claude-code) | ![GitHub Repo stars](https://badgen.net/github/stars/SDGLBL/mcp-claude-code) | MCP implementation of Claude Code capabilities | Feature implementation MCP|
 |[claude_code-gemini-mcp](https://github.com/RaiAnsar/claude_code-gemini-mcp) | ![GitHub Repo stars](https://badgen.net/github/stars/RaiAnsar/claude_code-gemini-mcp) | Simplified Gemini for Claude Code | Gemini integration|
 |[claude-gemini-mcp-slim](https://github.com/cmdaltctr/claude-gemini-mcp-slim) | ![GitHub Repo stars](https://badgen.net/github/stars/cmdaltctr/claude-gemini-mcp-slim) | Lightweight MCP integration bringing Gemini AI capabilities to Claude Code | Lightweight Gemini integration|
-|[TWZRD Agent Intel](https://github.com/twzrd-sol/wzrd-final) | ![GitHub Repo stars](https://badgen.net/github/stars/twzrd-sol/wzrd-final) | Solana-native AI agent trust scoring MCP server with x402 payment receipts. / Solana原生AI智能体信任评分MCP服务器，支持x402支付收据。 | Blockchain MCP|
+|[TWZRD Agent Intel](https://intel.twzrd.xyz) |  | Solana-native AI agent trust scoring MCP server with x402 payment receipts. / Solana原生AI智能体信任评分MCP服务器，支持x402支付收据。 | Blockchain MCP|
 |[mcp-gemini-assistant](https://github.com/peterkrueck/mcp-gemini-assistant) | ![GitHub Repo stars](https://badgen.net/github/stars/peterkrueck/mcp-gemini-assistant) | MCP Gemini coding assistant for Claude Code | Gemini coding assistant|
 
 ## Guides & Documentation
